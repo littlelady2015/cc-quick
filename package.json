@@ -1,0 +1,19 @@
+{
+  "name": "make-cli",
+  "version": "1.0.0",
+  "description": "一个epage-cc 组件快速搭建工具",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "src/index.js",
+  "author": "",
+  "license": "ISC"
+}
